@@ -8,7 +8,7 @@
     --color-fill: 235, 255, 210;
     --color-text-base: 21, 56, 46;
     --color-accent: 73, 178, 157;
-    --color-card: 215, 55, 92;
+    --color-card: 150, 55, 92;
     --color-card-muted: 73, 178, 157;
     --color-border: 223, 166, 53;
   }
@@ -16,7 +16,7 @@
     --color-fill: 21, 56, 46;
     --color-text-base: 235, 255, 210;
     --color-accent: 73, 178, 157;
-    --color-card: 215, 55, 92;
+    --color-card: 150, 55, 92;
     --color-card-muted: 73, 178, 157;
     --color-border: 223, 166, 53;
   }
