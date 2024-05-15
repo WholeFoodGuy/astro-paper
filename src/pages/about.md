@@ -6,7 +6,7 @@ Welcome to Whole Food Guy, a home for content dedicated to exploring the world o
 
 Our mission at Whole Food Guy is simple: to advocate for better health through the power of low-carb whole food. We believe that by focusing on nutrient-dense, minimally processed foods, we can not only improve our physical health but also foster a more positive and mindful approach to eating.
 
-![](/assets/com-wholefoodguy-about2.svg)
+![](/assets/com-wholefoodguy-about-3.svg)
 
 Whole Food Guy is for anyone who eats food and desires to better their health. Whether you're a seasoned low-carb enthusiast or just starting to explore the world of whole food, you'll find valuable insights, tips, and recipes to support you on your journey.
 
