@@ -1,41 +1,31 @@
 ---
 layout: ../layouts/AboutLayout.astro
-title: About
+title: About Whole Food Guy
 ---
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
+Welcome to Whole Food Guy, a home for content dedicated to exploring the world of low-carb whole food and it’s potential to transform our health and well-being. As someone who has struggled with a broken relationship with food, I embarked on this journey to discover a more nourishing and sustainable way of eating.
 
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by default and additional color schemes can also be configured.
-
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
+Our mission at Whole Food Guy is simple: to advocate for better health through the power of low-carb whole food. We believe that by focusing on nutrient-dense, minimally processed foods, we can not only improve our physical health but also foster a more positive and mindful approach to eating.
 
 ![](/assets/com-wholefoodguy-about2.svg)
 
-## Tech Stack
+Whole Food Guy is for anyone who eats food and desires to better their health. Whether you're a seasoned low-carb enthusiast or just starting to explore the world of whole food, you'll find valuable insights, tips, and recipes to support you on your journey.
 
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
+Through my own experiences and research, I've come to understand the transformative potential of a low-carb whole food lifestyle. By sharing my discoveries, challenges, and triumphs, I hope to inspire and empower others to take control of their health and cultivate a more nourishing relationship with food.
 
-## Features
+At Whole Food Guy, you'll find:
 
-Here are certain features of this site.
+\- Delicious and easy-to-follow recipes featuring low-carb whole food ingredients
 
-*   fully responsive and accessible
-    
-*   SEO-friendly
-    
-*   light & dark mode
-    
-*   fuzzy search
-    
-*   super fast performance
-    
-*   draft posts
-    
-*   pagination
-    
-*   sitemap & rss feed
-    
-*   highly customizable
-    
+\- Informative articles exploring the science behind low-carb eating and its potential health benefits
 
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+\- Practical tips and strategies for transitioning to and maintaining a low-carb whole food lifestyle
+
+\- Personal stories and insights from my own journey towards better health
+
+I believe that food should be a source of nourishment, enjoyment, and connection. By embracing the power of low-carb whole food, we can rediscover the joy of eating while supporting our health and well-being.
+
+Join me on this journey as we explore the world of low-carb whole food together. Let's celebrate the delicious, nutritious, and life-changing potential of real food.
+
+Thank you for being here,
+
+Whole Food Guy
