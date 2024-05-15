@@ -70,7 +70,7 @@ export const SOCIALS: SocialObjects = [
     name: "YouTube",
     href: "https://www.youtube.com/@WholeFoodGuy",
     linkTitle: `${SITE.title} on YouTube`,
-    active: True,
+    active: true,
   },
   {
     name: "WhatsApp",
