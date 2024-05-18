@@ -1,8 +1,8 @@
 ---
 author: Whole Food Guy
-pubDatetime: 2024-05-18
-modDatetime: 2024-05-18
-title: Pan Seared Broccoli and Eggs
+pubDatetime: 2024-05-18T19:08
+modDatetime: 2024-05-18T19:08
+title: Pan Seared Crispy Broccoli and Eggs
 featured: false
 draft: false
 description: A great whole food breakfast
