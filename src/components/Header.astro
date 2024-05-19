@@ -15,7 +15,8 @@ const { activeNav } = Astro.props;
   <div class="nav-container">
     <div class="top-nav-wrap">
       <a href="/" class="logo whitespace-nowrap">
-        { <img src="favicon.svg">
+        {
+          <img src="favicon.svg">
           LOGO_IMAGE.enable ? (
             <img
               src={`/assets/${LOGO_IMAGE.svg ? "logo.svg" : "logo.png"}`}
