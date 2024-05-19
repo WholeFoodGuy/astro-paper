@@ -4,7 +4,7 @@ export const SITE: Site = {
   website: "https://wholefoodguy.com/", // replace this with your deployed domain
   author: "Whole Food Guy",
   desc: "Dedicated to exploring the world of simple low-carb whole food and it’s potential to transform our health and well-being.",
-  title: "Whole Food Guy",
+  title: "<img src="favicon.svg"> Whole Food Guy",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerPage: 3,
