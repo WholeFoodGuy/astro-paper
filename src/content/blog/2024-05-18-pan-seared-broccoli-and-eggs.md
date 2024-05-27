@@ -7,6 +7,9 @@ featured: false
 draft: false
 tags:
   - "Breakfast "
+  - Cooking
+  - Tutorial
+  - Whole food
 description: A great whole food breakfast
 ---
 Recipie
