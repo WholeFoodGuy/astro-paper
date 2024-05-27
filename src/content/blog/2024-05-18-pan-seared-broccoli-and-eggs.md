@@ -10,7 +10,8 @@ tags:
   - Cooking
   - Tutorial
   - Whole food
-description: A great whole food breakfast
+description: This great nutritional whole food breakfast will power your
+  morning. Follow this tutorial to get the most out of your breakfast!
 ---
 Recipie
 
