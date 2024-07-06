@@ -12,6 +12,22 @@ data="https://www.youtube.com/embed/exaok6JTy5k?si=JHc-hdwDLb1bg_o7">
 
 This great nutritional whole food breakfast will power your morning delightfully! Follow this tutorial to get the most out of your breakfast!
 
-Recipie
 
-Nutrition facts
+**4 Servings, 200g**
+
+---
+
+- *1* avocado
+- *.5 teaspoon* salt
+- *1 1/2 pinches* red pepper flakes
+- lemon juice
+
+---
+
+Remove flesh from avocado and roughly mash with fork. Season to taste
+with salt, pepper and lemon juice.
+
+
+___
+
+Nutrition Facts
