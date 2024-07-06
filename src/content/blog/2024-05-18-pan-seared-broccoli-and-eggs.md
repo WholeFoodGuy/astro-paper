@@ -14,11 +14,6 @@ description: "This great nutritional whole food breakfast will power your
   morning delightfully! Follow this tutorial to get the most out of your
   breakfast! "
 ---
-<style>
-div{
-    aspect-ratio: 1 / 1;
-}
-</style>
 
 <div style="width: 100%; height: 100%float: none; clear: both; margin: 2px auto;">
   <embed
