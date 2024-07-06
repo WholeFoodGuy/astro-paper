@@ -15,17 +15,9 @@ description: "This great nutritional whole food breakfast will power your
   breakfast! "
 ---
 
-<div style="width: 800px; height: 800px; float: none; clear: both; margin: 2px auto;">
-  <embed
-    src="https://www.youtube.com/embed/exaok6JTy5k?si=JHc-hdwDLb1bg_o7?autoplay=1"
-    wmode="transparent"
-    type="video/mp4"
-    width="100%" height="100%"
-    allow="autoplay; encrypted-media; picture-in-picture"
-    allowfullscreen
-    title="Pan Seared Crispy Broccoli and Eggs"
-  >
-</div>
+<object width="800" height="800"
+data="https://www.youtube.com/embed/exaok6JTy5k?si=JHc-hdwDLb1bg_o7">
+</object> 
 
 This great nutritional whole food breakfast will power your morning delightfully! Follow this tutorial to get the most out of your breakfast!
 
