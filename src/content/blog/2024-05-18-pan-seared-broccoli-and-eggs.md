@@ -40,3 +40,13 @@ This great nutritional whole food breakfast will power your morning delightfully
 ___
 
 Nutrition Facts
+
+
+
+```mermaid
+pie
+    title Pie Chart
+    "Dogs" : 386
+    "Cats" : 85
+    "Rats" : 150 
+```
