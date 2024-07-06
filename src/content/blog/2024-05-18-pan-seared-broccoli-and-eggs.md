@@ -15,6 +15,11 @@ description: "This great nutritional whole food breakfast will power your
   breakfast! "
 ---
 
+<object style="aspect-ratio: 1 / 1" width="100%" 
+data="https://www.youtube.com/embed/exaok6JTy5k?si=JHc-hdwDLb1bg_o7">
+</object> 
+
+
 <object aspect-ratio="1/1" width="700" height="700" 
 data="https://www.youtube.com/embed/exaok6JTy5k?si=JHc-hdwDLb1bg_o7">
 </object> 
