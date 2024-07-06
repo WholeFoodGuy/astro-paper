@@ -7,11 +7,8 @@ featured: false
 draft: false
 tags:
   - "Breakfast "
-  - Cooking
-  - Tutorial
-  - Whole food
-  - Eggs
   - "Broccoli "
+  - Eggs
 description: "This great nutritional whole food breakfast will power your
   morning delightfully! Follow this tutorial to get the most out of your
   breakfast! "
@@ -42,11 +39,10 @@ ___
 Nutrition Facts
 
 
+|Macro|Grams|Percent Weight|Calories|
+|-----|-----|--------------|--------|
+|Carbs - Fiber|7.7|10|30.8|
+|Fat|48.8|50|439|
+|Fiber|4.6|5|0|
+|Proten|28.5|35|117|
 
-```mermaid
-pie
-    title Pie Chart
-    "Dogs" : 386
-    "Cats" : 85
-    "Rats" : 150 
-```
