@@ -5,6 +5,7 @@ modDatetime: 2024-07-05
 title: Example Youtube Embed Post
 featured: false
 draft: true
+description: Example Post to be used as a template for youtube embed posts
 ---
 <object style="aspect-ratio: 1 / 1" width="100%" 
 data="https://www.youtube.com/embed/exaok6JTy5k?si=JHc-hdwDLb1bg_o7">
