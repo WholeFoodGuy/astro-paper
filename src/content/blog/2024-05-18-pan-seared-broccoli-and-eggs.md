@@ -14,12 +14,7 @@ description: "This great nutritional whole food breakfast will power your
   morning delightfully! Follow this tutorial to get the most out of your
   breakfast! "
 ---
-<object
-  style="width: 820px; height: 461.25px; float: none; clear: both; margin: 2px auto;"
-  data="https://www.youtube.com/embed/exaok6JTy5k?si=JHc-hdwDLb1bg_o7?autoplay=1">
-</object>
-
-<div style="width: 560px; height: 315px; float: none; clear: both; margin: 2px auto;">
+<div style="aspect-ratio : 1 / 1; width: 100%; float: none; clear: both; margin: 2px auto;">
   <embed
     src="https://www.youtube.com/embed/exaok6JTy5k?si=JHc-hdwDLb1bg_o7?autoplay=1"
     wmode="transparent"
@@ -30,7 +25,6 @@ description: "This great nutritional whole food breakfast will power your
     title="Pan Seared Crispy Broccoli and Eggs"
   >
 </div>
-
 This great nutritional whole food breakfast will power your morning delightfully! Follow this tutorial to get the most out of your breakfast!
 
 Recipie
