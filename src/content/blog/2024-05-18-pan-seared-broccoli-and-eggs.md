@@ -15,7 +15,7 @@ description: "This great nutritional whole food breakfast will power your
   breakfast! "
 ---
 
-<div style="width: 100%; height: 100%; float: none; clear: both; margin: 2px auto;">
+<div style="width: 800px; height: 800px; float: none; clear: both; margin: 2px auto;">
   <embed
     src="https://www.youtube.com/embed/exaok6JTy5k?si=JHc-hdwDLb1bg_o7?autoplay=1"
     wmode="transparent"
