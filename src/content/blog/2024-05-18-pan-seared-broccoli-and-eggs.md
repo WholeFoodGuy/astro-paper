@@ -10,6 +10,8 @@ tags:
   - Cooking
   - Tutorial
   - Whole food
+  - Eggs
+  - "Broccoli "
 description: "This great nutritional whole food breakfast will power your
   morning delightfully! Follow this tutorial to get the most out of your
   breakfast! "
