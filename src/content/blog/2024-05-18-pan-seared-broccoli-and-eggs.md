@@ -15,8 +15,7 @@ description: "This great nutritional whole food breakfast will power your
   breakfast! "
 ---
 
-<div>Aspect ratio : 1 / 1</div>
-<div style="float: none; clear: both; margin: 2px auto;">
+<div style="aspect-ratio: 1/1; width: 100%; float: none; clear: both; margin: 2px auto;">
   <embed
     src="https://www.youtube.com/embed/exaok6JTy5k?si=JHc-hdwDLb1bg_o7?autoplay=1"
     wmode="transparent"
